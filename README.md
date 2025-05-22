@@ -9,21 +9,34 @@ Schematic:
 ## About the design:
 ### Features:
 Capacitors that work part of the circuit momentarily as the battery dies out or is being changed
+
 A vibrating motor controlled by a pushbutton
+
 Four LEDs, with a potentiometer to control the brightness between two of them
+
 Potentiometer to control the total current to the circuit
+
 ### How to build the circuit:
 Order the PCB and its components, then assemble it according to the images and KiCad files
-###Components:
+### Components:
 1 X coin cell battery holder
+
 4 X 5mm Light-Emitting Diodes
+
 5 X 220Ω resistors
+
 2 X 10 µf capacitors
+
 1 X 2N3904 NPN Bipolar Junction Transistor
+
 1 X 6mm SW pushbutton
+
 1 X mini vibrating motor disk
+
 1 X photoresistor
+
 2 X Potentiometer
+
 
 Made by (@Unex Sun) on Slack
 
