@@ -26,4 +26,5 @@ Order the PCB and its components, then assemble it according to the images and K
 2 X Potentiometer
 
 Made by (@Unex Sun) on Slack
+
 Made as a part of http://solder.hackclub.com/
