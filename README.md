@@ -22,8 +22,8 @@ Order the PCB and its components, then assemble it according to the images and K
 1 X 6mm SW pushbutton\
 1 X mini vibrating motor disk\
 1 X photoresistor\
-2 X Potentiometer\
+2 X Potentiometer
 
-Made by (@Unex Sun) on Slack\
+Made by (@Unex Sun) on Slack
 
 Made as a part of http://solder.hackclub.com/
