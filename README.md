@@ -9,10 +9,10 @@
 
 ## About the design:
 ### Features:
-Capacitors that work part of the circuit momentarily as the battery dies out or is being changed\
-A vibrating motor controlled by a pushbutton\
-Four LEDs, with a potentiometer to control the brightness between two of them\
-Potentiometer to control the total current to the circuit
+- Capacitors that work part of the circuit momentarily as the battery dies out or is being changed
+- A vibrating motor controlled by a pushbutton
+- Four LEDs, with a potentiometer to control the brightness between two of them
+- Potentiometer to control the total current to the circuit
 ### Does not feature:
 - Art on the front
 - Button for anything but the motor
